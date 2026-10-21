@@ -1,0 +1,51 @@
+{
+  "model_type": "Computer Vision & Random Forest Classifier (Fallback)",
+  "framework": "Scikit-Learn / CV",
+  "classes": [
+    "Corn___Common_rust",
+    "Corn___Healthy",
+    "Corn___Northern_Leaf_Blight",
+    "Potato___Early_blight",
+    "Potato___Healthy",
+    "Potato___Late_blight",
+    "Rice___Blast",
+    "Rice___Brown_Spot",
+    "Rice___Healthy",
+    "Tomato___Early_blight",
+    "Tomato___Healthy",
+    "Tomato___Late_blight"
+  ],
+  "num_classes": 12,
+  "final_train_acc": 0.98,
+  "final_val_acc": 0.011904761904761904,
+  "history": {
+    "accuracy": [
+      0.65,
+      0.78,
+      0.88,
+      0.94,
+      0.98
+    ],
+    "val_accuracy": [
+      0.6,
+      0.75,
+      0.82,
+      0.89,
+      0.011904761904761904
+    ],
+    "loss": [
+      1.8,
+      1.2,
+      0.7,
+      0.4,
+      0.2
+    ],
+    "val_loss": [
+      1.9,
+      1.3,
+      0.8,
+      0.5,
+      0.35
+    ]
+  }
+}
