@@ -1,0 +1,12 @@
+item_id,name,category,quantity,unit,min_threshold,price_per_unit,location,expiry_date,supplier,notes
+FERT-001,Neem Coated Urea (46% N),Fertilizer,18.0,Bags (45kg),10.0,270.0,Warehouse Shed A - Bay 1,2027-10-12,National Fertilizers Ltd,Essential nitrogen top-dressing for vegetative growth.
+FERT-002,DAP (Diammonium Phosphate 18-46-0),Fertilizer,4.0,Bags (50kg),8.0,1350.0,Warehouse Shed A - Bay 2,2027-06-14,IFFCO Kisan Agro,Crucial root booster during sowing stage. LOW STOCK ALERT!
+FERT-003,Muriate of Potash (MOP 60% K2O),Fertilizer,12.0,Bags (50kg),6.0,1700.0,Warehouse Shed A - Bay 3,2027-11-21,Coromandel International,Enhances drought tolerance and fruit firmness.
+FERT-004,Organic Vermicompost Bio-Enriched,Fertilizer,45.0,Bags (25kg),15.0,320.0,Shed C - Organic Pit,2027-04-15,GreenEarth Agro Organics,Rich humus and microbial inoculants for soil conditioning.
+PEST-001,Neem Oil Bio-Pesticide (10000 PPM),Pesticide,3.5,Liters,5.0,650.0,Chemical Cabinet - Rack 1,2027-03-16,BioCure Pest Solutions,"Broad-spectrum organic repellent for aphid, thrip, whitefly."
+PEST-002,Mancozeb 75% WP Fungicide,Pesticide,6.0,Packets (1kg),4.0,480.0,Chemical Cabinet - Rack 2,2027-07-24,UPL Crop Protection,Contact fungicide for Early and Late Blight prophylaxis.
+PEST-003,Trichoderma Viride Bio-Fungicide,Pesticide,2.0,Bags (2kg),5.0,340.0,Bio-Cold Storage R-1,2026-12-16,Agrilife Naturals,Antagonistic fungus against root rot and damping-off.
+SEED-001,Hybrid Tomato Seeds (Arka Rakshak),Seeds,8.0,Packets (10g),3.0,420.0,Seed Bank Lockbox S-1,2028-01-10,ICAR-IIHR Certified Seeds,"Triple disease resistant hybrid: ToLCV, Early Blight & Bacterial Wilt."
+SEED-002,Certified Seed Potato (Kufri Jyoti),Seeds,150.0,Kg,200.0,38.0,Cold Store Room B,2027-01-15,Central Potato Research Institute,"Medium maturing, wide adaptability. Stock low for upcoming rabi planting."
+SEED-003,Sweet Corn Hybrid Seeds (Sugar 75),Seeds,14.0,Packets (1kg),5.0,1150.0,Seed Bank Lockbox S-2,2027-09-02,Syngenta India,"High brix sweetness, resistant to Common Rust."
+SEED-004,Pusa Basmati 1121 Paddy Seeds,Seeds,25.0,Bags (10kg),10.0,890.0,Grain Seed Storage C,2028-02-29,IARI New Delhi,"Extra-long slender grain basmati rice, high export value."
